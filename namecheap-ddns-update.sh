@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 GLOBIGNORE="*"
 # for a domain you own hosted at namecheap, register one or more subdomains
 # to an IP address in namecheaps dynamicdns system
